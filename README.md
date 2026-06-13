@@ -237,3 +237,6 @@ interface range GigabitEthernet0/3 - 3
 •	Yersinia — Framework for layer 2 attacks. https://github.com/tomac/yersinia
 •	IEEE 802.1Q — Virtual Bridged Local Area Networks Standard.
 •	Repositorio del laboratorio: https://github.com/Darwing2024-2690/DTP-VLAN-Hopping
+<img width="879" height="530" alt="image" src="https://github.com/user-attachments/assets/7a84f6d4-bab4-4318-a80a-381a1e37c021" />
+<img width="569" height="385" alt="image" src="https://github.com/user-attachments/assets/5bd7b85f-ef3f-432a-828d-7be3f3af33de" />
+<img width="617" height="349" alt="image" src="https://github.com/user-attachments/assets/e645cedd-a944-4c29-9a7b-6e0193616a9d" />
